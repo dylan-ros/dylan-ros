@@ -52,8 +52,25 @@
 <br>
 </p>
 
+<h3 align="center" >Proyectos </h3>
+<div align="center">
+	<a href="https://vistella.vercel.app/" target="_blank">
+  	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dylan-ros&repo=Vistella&theme=tokyonight" />
+	</a>
+	<a href="https://portafolio-dylan.vercel.app/" target="_blank">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dylan-ros&repo=PortafolioDylan&theme=tokyonight" />
+	</a>
+</div>
+<br>
 
-<h3 align="center" >Connect with me 🤝 </h3>
+<h3 align="center" >Estaditiscas Generales </h3>
+	<p align="center">
+  		<img src="https://github-readme-stats.vercel.app/api?username=dylan-ros&show_icons=true&theme=tokyonight" />
+  		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylan-ros&layout=compact&theme=tokyonight" />
+	</p>
+
+
+<h3 align="center" >Contactame🤝 </h3>
 
 <p align="center">
 
@@ -65,7 +82,6 @@
            <a style="margin-left: 10px;" target="_blank" href="mailto:dylan.rosales9@gmail.com">
 		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
 		</div>
-
 </p>
 
 
