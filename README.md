@@ -10,10 +10,8 @@
   <img src="https://img.shields.io/badge/Languages-Español-dodgerblue" />
 </p>
 
-- 🔭 Actualmente estoy trabajando en proyectos de desarrollo web freelance para negocios locales  
-- 🌱 Actualmente estoy aprendiendo desarrollo backend y arquitectura de software  
-- 📁 Estoy en busca de una oportunidad para aplicar mis conocimientos en desarrollo y tecnología dentro de un entorno profesional, mientras continúo aprendiendo y fortaleciendo mis habilidades. 
-- 💬 Pregúntame sobre HTML, CSS, JavaScript, React o SQL Server  
+- 🔭 Actualmente estoy trabajando como desarrollador backend.
+- 💬 Pregúntame sobre HTML, CSS, JavaScript, React, .NET, Python o SQL Server  
 - 📫 Cómo contactarme: [dylan.rosales9@gmail.com](mailto:dylan.rosales9@gmail.com)  
 <br>
 
